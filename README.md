@@ -6,3 +6,4 @@ some machine learning projects.
 * /svm_spam/: use SVM to divide linear/non-linear separable data points and then visualize the boundary; use SVM to filter spam (linear/guassian kernel)
 * /k_mean/: use k-mean for image comperssion; k-mean process visualization
 * /pca/: use PCA to reduce the dimension of face images and visualize the difference.
+* /anomaly_detection/: use multivariable gaussian distribution to find out the anomaly (1000 training samples, 11 features)
