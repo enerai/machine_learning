@@ -7,3 +7,4 @@ some machine learning projects.
 * /k_mean/: use k-mean for image comperssion; k-mean process visualization
 * /pca/: use PCA to reduce the dimension of face images and visualize the difference.
 * /anomaly_detection/: use multivariable gaussian distribution to find out the anomaly (1000 training samples, 11 features)
+* /movie_recommendation/: use collaborative filtering to update the feature vectors of users and movies together (1682 movies, 943 users)
